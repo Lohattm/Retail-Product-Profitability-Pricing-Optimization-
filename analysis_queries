@@ -1,4 +1,3 @@
-~~~ SQL 
 -- Exploratory Data Analysis
 -- Question 1: Which products have high sales but negative profit?
 SELECT
@@ -87,8 +86,5 @@ FROM retail_data
 GROUP BY region
 ORDER BY profit ASC;
 
-~~~
-
-~~~ SQL
 
 
