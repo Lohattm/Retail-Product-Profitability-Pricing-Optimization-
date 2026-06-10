@@ -1,4 +1,4 @@
-~~ SQL 
+~~~ SQL 
 -- Exploratory Data Analysis
 -- Question 1: Which products have high sales but negative profit?
 SELECT
